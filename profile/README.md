@@ -6,49 +6,51 @@ The Semantic Data Integration Lab conducts research on the foundations and appli
 
 Our research spans the intersection of Semantic Web technologies and modern AI, with particular emphasis on:
 
-  • Enterprise Knowledge Graphs
+  * Enterprise Knowledge Graphs
 
-  • Semantic Data Integration
+  * Semantic Data Integration
 
-  • Ontology Engineering and Knowledge Representation
+  * Ontology Engineering and Knowledge Representation
 
-  • RDF, R2RML, SPARQL, and Linked Data
+  * RDF, R2RML, SPARQL, and Linked Data
 
-  • Knowledge Graph Construction and Maintenance
+  * Knowledge Graph Construction and Maintenance
 
-  • Incremental Maintenance of RDF Views
+  * Incremental Maintenance of RDF Views
 
-  • Data Provenance, Lineage, and Quality
+  * Data Provenance, Lineage, and Quality
 
-  • Knowledge Graph Question Answering (KGQA)
+  * Knowledge Graph Question Answering (KGQA)
 
-  • Large Language Models (LLMs) for Semantic Data Management
+  * Large Language Models (LLMs) for Semantic Data Management
 
-  • Multi-Agent Systems for Knowledge Engineering
+  * Multi-Agent Systems for Knowledge Engineering
 
-  • Retrieval-Augmented Generation (RAG) over Knowledge Graphs
+  * Retrieval-Augmented Generation (RAG) over Knowledge Graphs
 
 Our repositories contain research prototypes, software tools, ontologies, datasets, benchmarks, experimental artifacts, and reproducibility packages associated with our scientific publications, master's dissertations, doctoral theses, and collaborative research projects.
 
-  • Main Research Projects
+  * Main Research Projects
 
-  • AI Agents for Semantic Data Integration
+  * AI Agents for Semantic Data Integration
 
-  • Semantic Views Framework
+  * Semantic Views Framework
 
-  • R2RML Trigger Compiler
+  * R2RML Trigger Compiler
 
-  • Incremental RDF View Maintenance
+  * Incremental RDF View Maintenance
 
-  • EKGViewExplorer
+  * EKGViewExplorer
 
-  • Ontology Engineering with LLMs
+  * Ontology Engineering with LLMs
 
-  • Knowledge Graph Question Answering
+  * Knowledge Graph Question Answering
 
-  • Semantic Data Quality and Provenance
+  * Semantic Data Quality and Provenance
 
 We welcome collaboration from researchers, students, and practitioners interested in Semantic Web technologies, Knowledge Graphs, and AI-driven data integration.
 
 **Institution:** Federal University of Ceará (UFC)
-**Research Area:** *Knowledge Graphs* • *Semantic Web* • *Data Integration* • *Artificial Intelligence*
+
+**Research Area:** 
+*Knowledge Graphs* • *Semantic Web* • *Data Integration* • *Artificial Intelligence*
