@@ -90,16 +90,20 @@ We welcome collaboration from researchers, students, and practitioners intereste
 **2021:**
 
   * AVILA, CAIO VIKTOR S.; FRANCO, WELLINGTON ; D. P. VENCESLAU, AMANDA ; VIDAL ROLIM, TULIO ; M. P. VIDAL, VANIA ; M. PEQUENO, VALÉRIA . MediBot: An Ontology-Based Chatbot to Retrieve Drug Information and Compare its Prices. Journal of Information and Data Management - JIDM, v. 12, p. 202-220, 2021.
-VIDAL ROLIM, TULIO ; AVILA, CAIO VIKTOR S. ; ARRUDA JUNIOR, N. M. ; FRANCO, J. W. ; Maia, José Gilvan R. ; Mauro Oliveira ; ANDRADE, L. O. M. ; VIDAL, VANIA . UM ENFOQUE INCREMENTAL PARA CONSTRUÇÃO DO GRAFO DE CONHECIMENTO DO SUS. In: Ernane Rosa Martins. (Org.). Tecnologia da Informação e Comunicação pesquisas em inovações tecnológicas. 1ed.: Editora Científica Digital, 2021, v. 1, p. 327-342.
+
+  * VIDAL ROLIM, TULIO ; AVILA, CAIO VIKTOR S. ; ARRUDA JUNIOR, N. M. ; FRANCO, J. W. ; Maia, José Gilvan R. ; Mauro Oliveira ; ANDRADE, L. O. M. ; VIDAL, VANIA . UM ENFOQUE INCREMENTAL PARA CONSTRUÇÃO DO GRAFO DE CONHECIMENTO DO SUS. In: Ernane Rosa Martins. (Org.). Tecnologia da Informação e Comunicação pesquisas em inovações tecnológicas. 1ed.: Editora Científica Digital, 2021, v. 1, p. 327-342.
 
   * ROLIM, TULIO VIDAL ; AVILA, CAIO VIKTOR S. ; A. JUNIOR, NARCISO MOURA ; COSTA, FRANCISCA JAMIRES ; MARIANO, ROBERVAL GOMES ; CALIXTO, TAINAN ; VIDAL, VANIA MARIA PONTE . KG-E: Um Grafo de Conhecimento Semântico Baseado na Integração de Dados de Empresas e Sancionados. In: Workshop de Computação Aplicada em Governo Eletrônico, 2021, Brasil. Anais do IX Workshop de Computação Aplicada em Governo Eletrônico (WCGE 2021), 2021. p. 155.
-VIDAL ROLIM, TULIO ; AVILA, CAIO VIKTOR S. ; MARIANO, ROBERVAL GOMES ; CALIXTO, TAINAN ; Pedro Ivo ; M. FILHO, J. M. ; BRAYNER, A. R. ; M. P. VIDAL, VANIA . Uso das tecnologias da web semântica na construção de grafos de conhecimento semântico baseado no enfoque híbrido. In: XIV Seminar on Ontology Research in Brazil (ONTOBRAS 2021), 2021, Online. Proceedings of the XIV Seminar on Ontology Research in Brazil (ONTOBRAS 2021) and V Doctoral and Masters Consortium on Ontologies (WTDO 2021), 2021. v. 3050. p. 85-98.
+  
+  * VIDAL ROLIM, TULIO ; AVILA, CAIO VIKTOR S. ; MARIANO, ROBERVAL GOMES ; CALIXTO, TAINAN ; Pedro Ivo ; M. FILHO, J. M. ; BRAYNER, A. R. ; M. P. VIDAL, VANIA . Uso das tecnologias da web semântica na construção de grafos de conhecimento semântico baseado no enfoque híbrido. In: XIV Seminar on Ontology Research in Brazil (ONTOBRAS 2021), 2021, Online. Proceedings of the XIV Seminar on Ontology Research in Brazil (ONTOBRAS 2021) and V Doctoral and Masters Consortium on Ontologies (WTDO 2021), 2021. v. 3050. p. 85-98.
 
 **2020:**
 
   * AVILA, CAIO VIKTOR S.; FRANCO, WELLINGTON ; Maia, José Gilvan R. ; Vidal, Vania M. P. . CONQUEST: A Framework for Building Template-Based IQA Chatbots for Enterprise Knowledge Graphs. Lecture Notes in Computer Science. 1ed.: Springer International Publishing, 2020, v. , p. 60-72.
-FRANCO, WELLINGTON ; VIKTOR, CAIO ; OLIVEIRA, ARTUR ; MAIA, GILVAN ; BRAYNER, ANGELO ; VIDAL, V. ; CARVALHO, FERNANDO ; PEQUENO, V. . Ontology-based Question Answering Systems over Knowledge Bases: A Survey. In: 22nd International Conference on Enterprise Information Systems, 2020, Prague. Proceedings of the 22nd International Conference on Enterprise Information Systems, 2020. p. 532.
-ROLIM, TULIO ; AVILA, CAIO ; ARRUDA, NARCISO ; SILVA, JOSÉ ; MAIA, JOSÉ ; OLIVEIRA, MAURO ; ANDRADE, LUIZ ; VIDAL, VÂNIA . Um Enfoque Incremental para Construção do Grafo de Conhecimento do SUS. In: Anais Principais do Simpósio Brasileiro de Computação Aplicada à Saúde, 2020, Brasil. Anais Principais do Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS 2020), 2020. p. 72.
+
+  * FRANCO, WELLINGTON ; VIKTOR, CAIO ; OLIVEIRA, ARTUR ; MAIA, GILVAN ; BRAYNER, ANGELO ; VIDAL, V. ; CARVALHO, FERNANDO ; PEQUENO, V. . Ontology-based Question Answering Systems over Knowledge Bases: A Survey. In: 22nd International Conference on Enterprise Information Systems, 2020, Prague. Proceedings of the 22nd International Conference on Enterprise Information Systems, 2020. p. 532.
+
+  * ROLIM, TULIO ; AVILA, CAIO ; ARRUDA, NARCISO ; SILVA, JOSÉ ; MAIA, JOSÉ ; OLIVEIRA, MAURO ; ANDRADE, LUIZ ; VIDAL, VÂNIA . Um Enfoque Incremental para Construção do Grafo de Conhecimento do SUS. In: Anais Principais do Simpósio Brasileiro de Computação Aplicada à Saúde, 2020, Brasil. Anais Principais do Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS 2020), 2020. p. 72.
 
 **2019:**
 
