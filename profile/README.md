@@ -1,6 +1,6 @@
 # Semantic Data Integration Lab (SDI Lab)
 
-Welcome to the Semantic Data Integration Lab (SDI Lab) at the Federal University of Ceará (UFC).
+Welcome to the **Semantic Data Integration Lab (SDI Lab)** at the **Federal University of Ceará (UFC)**.
 
 The Semantic Data Integration Lab conducts research on the foundations and applications of Knowledge Graphs, Semantic Web, Data Integration, and Artificial Intelligence. Our goal is to develop methods, conceptual models, algorithms, and open-source software for integrating heterogeneous data sources and transforming them into high-quality, interoperable knowledge graphs.
 
